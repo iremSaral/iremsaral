@@ -1,16 +1,28 @@
-### Hi there 👋
+# Merhaba, Benim Adım [İrem ]
 
-<!--
-**iremSaral/iremsaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[İş veya hobilerinizle ilgili bir giriş cümlesi]
 
-Here are some ideas to get you started:
+## 🧑‍💻 Teknik Becerilerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Becerilerinizin listesi]
+- [Özellikle uzman olduğunuz veya ilgi duyduğunuz alanları vurgulayın]
+- [Teknolojilere ve dillerinize hakim olduğunuzu gösteren örnekler]
+
+## 🌱 Deneyimlerim
+
+- [Çalıştığınız veya katkıda bulunduğunuz projeleri ve rollerinizi belirtin]
+- [Öğrenme süreçleriniz ve kendinizi geliştirmek için yaptığınız çalışmaları vurgulayın]
+- [Başarılarınız veya projeleriniz hakkında kısa açıklamalar ekleyin]
+
+## 🚀 Projelerim
+
+- [Kendi projelerinizi veya çevrimiçi olarak yayınladığınız projeleri listeleyin]
+- [Proje isimleri, kısa açıklamalar ve projenin GitHub bağlantıları gibi bilgiler ekleyin]
+- [Projelerinizin görsellerini veya demo bağlantılarını paylaşabilirsiniz]
+
+## 📫 İletişim
+
+- [E-posta adresiniz]
+- [Diğer sosyal medya hesaplarınız veya kişisel web sitenizin bağlantıları]
+- [İletişim için en uygun yöntemi belirtin]
+
